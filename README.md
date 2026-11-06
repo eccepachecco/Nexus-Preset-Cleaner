@@ -26,9 +26,7 @@ actually play on **your** machine.
 ## Requirements
 
 - Windows 10 / 11
-- **reFX Nexus 2** (it reads the Nexus 2 downloaded-pack preset format)
-- A DAW with Nexus (e.g. **FL Studio**) so you can play a few test presets during
-  the one-time calibration step
+- **reFX Nexus 2**
 
 ---
 
