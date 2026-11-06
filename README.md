@@ -110,5 +110,8 @@ someone.
 
 Donation link: https://ko-fi.com/pachecosolutions
 
+---
 
-## License\n\nMIT — do whatever you like with it.
+## License
+
+MIT — do whatever you like with it.
